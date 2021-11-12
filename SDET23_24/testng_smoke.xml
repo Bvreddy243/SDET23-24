@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.crm.SDET23.Test1"/>
+      <class name="SDET23_24.Test1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
